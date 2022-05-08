@@ -1,0 +1,21 @@
+steps
+
+1. signup gitHub account 
+2. download gitdash
+3. creat a new gitHub repository name
+  ex. repository name = WEB Coding -> click on creat repository button (inside deposity show all code)
+
+4. creat new folder on desktop -> go into the folder -> folder open in vscode
+5. open terminal -> open gitdash -> write command  in gitdash  
+
+
+write command here 
+1. git init                      = (initalize git deposity here)
+2. go to the gitHub and copy command ex. git remote add origin https://github.com/vijay4211/WEB-Coding.git  (connect git hub with your vscode)
+3. intro.html file add in my deposity so use this command -> 
+
+- git status     =  show file name
+  (1st add .   2nd commit -m "write here message"  3rd push origin "master or your branch")
+  -    
+4. git add .    (es command se hum file ke changes ko add karte hai)
+5.  
