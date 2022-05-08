@@ -18,4 +18,27 @@ write command here
   (1st add .   2nd commit -m "write here message"  3rd push origin "master or your branch")
   -    
 4. git add .    (es command se hum file ke changes ko add karte hai)
-5.  
+5. git commit -m "introduction to HTML"
+6. git push origin master     (this command push my code in gitHub)
+7. go to the gitHub -> Refresh page 
+8. click our repository that we make      (ex.  WEB-Coding)
+9. we will show our file and name of file is  (intro.html) 
+10. inside the file we will get code.    ------------complet task--------
+                        ------------------------------this created file push into my gitHub  
+1. i created two file 1st is boxmodel.html and write some text and i also creat js file and write some element here
+you need to 3 command follow
+ 1. git add .
+ 2. git command -m "write message here what did you changes in your file or anything"
+ 3. git push origin master     = (this is main branch master. we can creat our own brach and push code in our branch)
+
+         
+
+
+
+
+
+
+
+- "master" is our branch name
+- master is a our main branch
+
